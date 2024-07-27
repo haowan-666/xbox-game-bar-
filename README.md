@@ -1,2 +1,2 @@
-# xbox-game-bar-
-这是一个简简单单的可通过你的Ins键来启动Xbox game bar的录制功能从原来的Windows+alt+r缩短成一个按键
+# Quickly launch your Xbox Game Bar  1!
+This is a simple way. You can start the recording function of Xbox Game Bar by pressing your Insert key, shortening it from the original Windows + Alt + R to just one key!
