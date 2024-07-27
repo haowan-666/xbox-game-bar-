@@ -1,0 +1,2 @@
+You can place the file at "C:\Users\<your user>\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup".
+If you need this function to be enabled for all users, you can place the file at "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp". This will greatly enhance your experience.  
